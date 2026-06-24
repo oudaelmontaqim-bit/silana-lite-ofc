@@ -1,4 +1,4 @@
-import { watchFile, unwatchFile } from 'fs'
+' { watchFile, unwatchFile } from 'fs'
 import fs from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
@@ -15,7 +15,7 @@ global.setting = {
 
 global.info = {
  nomerbot : '212702816550',
- pairingNumber : '212702816550',
+ pairingNumber : '212680697262',
  figlet: 'silanalite', // create a start console display
  nomorwa : '212702816550',
  nameown : 'NOUREDDINE',
