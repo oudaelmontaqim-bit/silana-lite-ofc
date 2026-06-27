@@ -1,4 +1,4 @@
-' { watchFile, unwatchFile } from 'fs'
+import { watchFile, unwatchFile } from 'fs'
 import fs from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
@@ -14,10 +14,10 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212702816550',
+ nomerbot : '212605784394',
  pairingNumber : '212603415919',
  figlet: 'silanalite', // create a start console display
- nomorwa : '212702816550',
+ nomorwa : '212605784394',
  nameown : 'NOUREDDINE',
  nomerown : '212717457920',
  packname : 'sticker by ',
